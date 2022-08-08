@@ -1,2 +1,2 @@
-# Zaklady-programovani
+# Základy-programovaní
 1. semestr
