@@ -1,8 +1,8 @@
 # [IZP] Základy programování - projekty
 
-2017/18 - 1. semestr
+## 2017/18 - 1. semestr
 
-# Projekt 1 - Práce s textem - 5/5 bodů
+### Projekt 1 - Práce s textem - 5/5 bodů
 
   Popis projektu
   Cílem projektu je vytvořit program, který by emuloval algoritmus výpočtu povolení a zakázání kláves na virtuální klávesnici navigace. Vstupem programu jsou data známých adres a uživatelem zadaný řetězec. Výstup programu bude obsahovat znaky, které mají být na klávesnici povoleny.
@@ -52,7 +52,7 @@
   volání qsort, lsearch, bsearch a hsearch - cílem je zamyslet se nad algoritmizací a strukturou dat.
   
 
-# Projekt 2 - Iterační výpočty - 7/7 bodů
+### Projekt 2 - Iterační výpočty - 7/7 bodů
   
   Zadání projektu
   Implementujte funkce nutné pro výpočet vzdálenosti a výšky pomocí úhlu náklonu měřeného přístroje. Výpočet proveďte pouze pomocí matematických operací +,-,*,/. Implementujte výpočet vzdálenosti a výšky měřeného objektu.
@@ -83,7 +83,7 @@
   Je zakázané použít funkce z matematické knihovny.
   
  
-# Projekt 3 - Jednoduchá shluková analýza - 10/10 bodů + 2 body prémie
+### Projekt 3 - Jednoduchá shluková analýza - 10/10 bodů + 2 body prémie
 	    - Dokumentace - 3.3/4 body
   Popis projektu
   Vytvořte program, který implementuje jednoduchou shlukovou analýzu, metodu "Unweighted pair-group average" (pouze anglicky).
@@ -117,6 +117,6 @@
 
 
 
-2020
+## 2020/21
 
-# Projekt 3 - Průchod bludištěm - zhotoveno za minimum času pouze pro výukové potřeby
+### Projekt 3 - Průchod bludištěm - zhotoveno za minimum času pouze pro výukové potřeby
