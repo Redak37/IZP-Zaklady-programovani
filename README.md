@@ -1,6 +1,6 @@
 # [IZP] Základy programování - projekty
 
-2017 - 1. semestr
+2017/18 - 1. semestr
 
 # Projekt 1 - Práce s textem - 5/5 bodů
 
